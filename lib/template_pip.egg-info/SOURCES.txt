@@ -1,0 +1,5 @@
+setup.py
+lib/template_pip.egg-info/PKG-INFO
+lib/template_pip.egg-info/SOURCES.txt
+lib/template_pip.egg-info/dependency_links.txt
+lib/template_pip.egg-info/top_level.txt
