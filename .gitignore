@@ -1,0 +1,4 @@
+/build
+/dist
+/template_pip.egg-info
+/src/__pycache__
